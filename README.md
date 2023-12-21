@@ -7,4 +7,5 @@ Apply three or more feature engineering techniques on the credit-default data an
 •	Demonstrate the effectiveness of your techniques by rebuilding the decision tree and GBT to achieve 20% or better performance improvement for the evaluation criteria you chose (note - accuracy is NOT a good choice here).
 
 •	Justify your choice of feature engineering techniques that you used.
+
      •	Sampling approaches or adjustments to the weighting of the target variable will count towards feature engineering
