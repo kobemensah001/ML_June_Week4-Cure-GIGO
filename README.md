@@ -8,4 +8,4 @@ Apply three or more feature engineering techniques on the credit-default data an
 
 •	Justify your choice of feature engineering techniques that you used.
 
-      •	Sampling approaches or adjustments to the weighting of the target variable will count towards feature engineering
+     •	Sampling approaches or adjustments to the weighting of the target variable will count towards feature engineering
